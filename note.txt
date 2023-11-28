@@ -1,0 +1,226 @@
+
+
+
+
+  <!------>
+    <section class="sponsors">
+        <img src="images/google.png" alt="google">
+        <img src="images/slack.png" alt="slack">
+        <img src="images/atlassian.png" alt="atlassian">
+        <img src="images/dropbox.png" alt="dropbox">
+        <img src="images/shopify.png" alt="shopify">
+    </section>
+    <!-------->
+    <section class="gpt3_possibilities_container">
+      <div class="gpt3_possibilities">
+        <div class="what_is_gpt3_details">
+          <div class="what_is_gpt3">
+            <div class="line"></div>
+            <h3>What is GPT-3</h3>
+          </div>
+          <div class="what_is_details">
+            <p>We so opinion friends me message as delight. Whole front do
+               of plate heard oh ought. His defective nor convinced residence
+               own. Connection has put impossible own apartments boisterous.
+               At jointure ladyship an insisted so humanity he. Friendly 
+               bachelor entrance to on by.</p>
+          </div>
+        </div>
+        <div class="possibilities_CTA">
+          <h2>The possibilities are beyond your imagination</h2>
+          <span>Explore The Library</span>
+        </div>
+        <div class="gpt3_boxes">
+          <div class="gpt3_box">
+            <div class="line_heading">
+              <div class="line"></div>
+              <h3>Chatbots</h3>
+            </div>
+            <div class="gpt3_box_details">
+              <p>We so opinion friends me message as delight. Whole front 
+                 do of plate heard oh ought. </p>
+            </div>
+          </div>
+          <div class="gpt3_box">
+            <div class="line_heading">
+              <div class="line"></div>
+              <h3>Knowledgebase</h3>
+            </div>
+            <div class="gpt3_box_details">
+              <p>At jointure ladyship an insisted so humanity he. 
+                 Friendly bachelor entrance to on by. As put 
+                 impossible own apartments b </p>
+            </div>
+          </div>
+          <div class="gpt3_box">
+            <div class="line_heading">
+              <div class="line"></div>
+              <h3>Education</h3>
+            </div>
+            <div class="gpt3_box_details">
+              <p>At jointure ladyship an insisted so humanity he. 
+                 Friendly bachelor entrance to on by. As put 
+                 impossible own apartments b </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="future container_pd">
+      <div class="future_details_cta">
+        <h2>The Future is Now and You Just Need To Realize It. Step
+            into Future Today & Make it Happen.</h2>
+            <span>Request Early Access to Get Started</span>
+      </div>
+      <div class="future_list">
+        <div class="list">
+          <div class="line_heading">
+          <div class="line"></div>
+          <div class="list_heading">
+          <p>Improving end distrusts instantly </p>
+          </div>
+          </div>
+          <div class="list_details">
+            <small>From they fine john he give of rich he. They age and
+              draw mrs like. Improving end distrusts may instantly
+              was household applauded.</small>
+          </div>
+        </div>
+        <div class="list">
+          <div class="line_heading">
+          <div class="line"></div>
+          <div class="list_heading">
+          <p>Become the tended active </p>
+          </div>
+          </div>
+          <div class="list_details">
+            <small>Considered sympathize ten uncommonly occasional assistance
+                   sufficient not. Letter of on become he tended active enable
+                   to.</small>
+          </div>
+        </div>
+        <div class="list">
+          <div class="line_heading">
+          <div class="line"></div>
+          <div class="list_heading">
+          <p>Message or am nothing </p>
+          </div>
+          </div>
+          <div class="list_details">
+            <small>Led ask possible mistress relation elegance eat likewise
+                   debating. By message or am nothing amongst chiefly 
+                   address.</small>
+          </div>
+        </div>  
+        <div class="list">
+          <div class="line_heading">
+          <div class="line"></div>
+          <div class="list_heading">
+          <p>Really boy law county </p>
+          </div>
+          </div>
+          <div class="list_details">
+            <small>Really boy law county she unable her sister. Feet you 
+                   off its like like six. Among sex are leave law built
+                   now. In built table in an rapid blush.</small>
+          </div>
+        </div>      
+      </div>
+    </section>
+    <section class="my_apps container_pd">
+      <div class="my_apps">
+        <div class="my_apps_image">
+          <img src="images/Feature Image.png" alt="">
+        </div>
+        <div class="my_apps_details">
+          <p>Request Early Access to Get Started</p>
+          <h2>The possibilities are beyond your imagination</h2>
+          <p class="p2">Yet bed any for travelling assistance indulgence
+                 unpleasing. Not thoughts all exercise blessing. 
+                 Indulgence way everything joy alteration boisterous
+                 the attachment. Party we years to order allow asked
+                 of.</p>
+                 <span>Request Early Access to Get Started</span>
+        </div>
+      </div>
+    </section>
+    <section class="register">
+      <div class="register_details_cta">
+        <div class="register_details">
+          <small>Request Early Access to Get Started</small>
+          <h2>Register today & start exploring the endless possiblities.</h2>
+        </div>
+        <div class="register_cta">
+          <button>Get Started</button>
+        </div>
+      </div>
+    </section>
+    <section class="blog">
+      <div class="blog_heading">
+        <h2>A lot is happening, 
+          We are blogging about it.</h2>
+      </div>
+      <div class="blog_flex">
+        <div class="flex1">
+          <img src="images/Group 99.png" alt="">
+        </div>
+        <div class="flex2">
+          <div class="col1">
+            <img src="images/Group 97.png" alt="">
+          </div>
+          <div class="col2">
+            <img src="images/Group 98.png" alt="">
+          </div>
+        </div>
+        <div class="flex3">
+          <div class="col1">
+            <img src="images/Group 100.png" alt="">
+          </div>
+          <div class="col2">
+            <img src="images/Group 101.png" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+  <footer>
+    <section class="footer">
+      <div class="footer_details_cta">
+        <h2>Do you want to step in to the future before others</h2>
+        <button>Request Early Access</button>
+      </div>
+      <div class="footer_logo_list">
+        <div class="footer_logo">
+          <img src="images/GPT-3.png" alt="">
+          <small>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</small>
+        </div>
+        <div class="footer_list">
+          <div class="list1">
+            <h6>Links</h6>
+            <ul>
+              <li>Overons</li>
+              <li>Social Media</li>
+              <li>Counters</li>
+              <li>contact</li>
+            </ul>
+          </div>
+          <div class="list2">
+            <h6>Company</h6>
+            <ul>
+              <li>Terms & Conditions</li>
+              <li>Privacy Policy</li>
+              <li>contact</li>
+            </ul>
+          </div>
+          <div class="list3">
+            <h6>Get in touch</h6>
+            <ul>
+              <li>Crechterwoord K12 182 DK Alknjkcb</li>
+              <li>085-132567 </li>
+              <li>info@payme.net</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </footer>
